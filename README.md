@@ -1,8 +1,12 @@
 
   ## 🌟Q_CALC_ Application 🌟
-  
-           All-In-One Calculator Application
+  All-In-One Calculator Application
 
+  ## Live Demo:- 
+https://q-calc-application-gkegambge5g8afeq.eastus-01.azurewebsites.net/swagger-ui/index.html#/
+
+## Video WalkTrhough:-
+[![Watch the video](https://img.youtube.com/vi/4Ffg33j7A4s/0.jpg)](https://youtu.be/4Ffg33j7A4s)
 ---
 
 
